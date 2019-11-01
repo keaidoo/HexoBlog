@@ -7,5 +7,4 @@ description:
 photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/lab.jpg
 ---
 
-## sakura主题
-balabala
+## 待更新...

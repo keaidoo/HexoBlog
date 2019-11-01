@@ -33,4 +33,9 @@ links:
       img: https://cdn.jsdelivr.net/gh/keaidoo/cdn/img/friend/yzw.jpeg
       name: 袁zw
       desc: 求撩～
+    - url: https://www.datablog.top
+      img: https://cdn.jsdelivr.net/gh/keaidoo/cdn@1.2/img/custom/paperPhoto/4.jpg
+      name: 牟牟
+      desc: 我很帅～
+      
 ---
